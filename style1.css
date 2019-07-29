@@ -1,0 +1,196 @@
+*
+body{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#2f125e+80,2f125e+80,491068+100,7db9e8+100,491068+101 */
+background: #2f125e; /* Old browsers */
+background: -moz-linear-gradient(left,  #2f125e 80%, #2f125e 80%, #491068 100%, #7db9e8 100%, #491068 101%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #2f125e 80%,#2f125e 80%,#491068 100%,#7db9e8 100%,#491068 101%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #2f125e 80%,#2f125e 80%,#491068 100%,#7db9e8 100%,#491068 101%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f125e', endColorstr='#491068',GradientType=1 ); /* IE6-9 */
+
+}
+
+.zubia
+{
+    float: left;
+    list-style-type: none;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.zubia li
+{
+    display: inline-block;
+}
+
+.zubia li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 50px 40px;
+    font-family: "Roboto" ,sans-serif;
+    font-size: 33px;
+}
+
+.main-nav
+{
+    float: right;
+    list-style-type: none;
+    margin-top: -35px;
+    margin-right: -1000px; 
+}
+
+.main-nav li
+{
+    display: inline-block;
+}
+
+.main-nav li a
+{
+    color: rgb(212, 202, 202);
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto" ,sans-serif;
+    font-size: 17px;
+}
+
+.active
+{
+    border: 1px solid rgb(212, 202, 202);
+    border-radius: 23px;
+    margin-right: 50px;
+    column-fill: black;
+    color: grey;
+    padding: 13px 5px;
+    font-family: "Roboto" ,sans-serif;
+    font-size: 17px;
+    background-color: rgb(212, 202, 202, 0);
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+.active:hover
+{
+    background-color: rgb(212, 202, 202, 0.8);
+}
+
+body
+{
+    font-family: monospace;
+    overflow-x: hidden;
+}
+
+.row
+{
+    max-width: 100%;
+    margin: auto;
+}
+
+.hero
+{
+    float: left;
+    list-style-type: none;
+    margin-top: 40px;
+    margin-left: 88px; 
+}
+
+.hero li
+{
+    display: inline;
+}
+
+.hero li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 1px -10px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    cursor: auto;
+}
+
+.icon img
+{
+    width: 25px;
+    height: auto;
+    float: left;
+    margin-top: 37px;
+    margin-left: -350px;
+}
+
+.auto
+{
+    float: left;
+    list-style-type: none;
+    margin-top: 130px;
+    margin-left: -401px;
+}
+
+.auto li
+{
+    display: inline;
+}
+
+.auto li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 1px 10px;
+    font-family: "Roboto", sans-serif;
+    font-size: 62px;
+    cursor: auto;
+}
+
+.easy
+{
+    float: left;
+    list-style-type: none;
+    margin-top: 312px;
+    margin-left: -620px;
+}
+
+.easy li
+{
+    display: inline;
+}
+
+.easy li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 1px 10px;
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    cursor: auto;
+}
+
+.button
+{
+    margin-left: -610px;
+    margin-top: 30px;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    width: 150px;
+    font-family: "Roboto", sans-serif;
+    padding: 16px 8px;
+    text-align: center;
+    font-size: 16px;
+    background-color: rgba(255, 60, 0);
+    border-radius: 25px;
+}
+
+.button:hover
+{
+    background-color:  rgba(255, 60, 0);
+    box-shadow: 0 0 10px rgb(255, 76, 5);
+}
+
+.ilus
+{
+    width: 50px;
+    height: auto;
+    float: right;
+    margin-top: -355px;
+    margin-right: 510px;
+}
